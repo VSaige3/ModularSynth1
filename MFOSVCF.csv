@@ -10,7 +10,7 @@ Qty.,Description,Value,Designators
 4,Resistor 1/4 Watt 5%,1K, R55; R57; R61; R65  
 2,Resistor 1/4 Watt 5%,30K, R59; R60  
 2,Resistor 1/4 Watt 5%,3M, R45; R49  
-2,Trim Pot,10K,R62,R66  
+2,Trim Pot,10K,R62; R66  
 2,Capacitor Alum. Nonpolarized (small w/radial leads),1uF, C37; C38  
 4,Capacitor Ceramic,.0022uF,C7; C8; C9; C10
 4,Capacitor Ceramic,.1uF,C5; C6; C11; C12  

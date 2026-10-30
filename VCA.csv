@@ -1,15 +1,15 @@
 Qty., Description, Value, Designators
-12, Resistor, 100k
-2, Resistor, 82k
-6, Resistor, 20k
-6, Resistor, 10k
-2, Resistor, 1k
-4, Resistor, 100
-2, Resistor, 10
-2, Capacitor Electrolytic, 47uF
-6, Capacitor Ceramic, 100nF
-2, SB140 Schottky Diode, SB140
-4, BC548 NPN Transistor, BC548
-2, Trimpot, 100k
-2, Linear Pot, 100k
-2, TL072 Dual Op-Amp, Tl072
+12, Resistor, 100k, 
+2, Resistor, 82k, 
+6, Resistor, 20k, 
+6, Resistor, 10k, 
+2, Resistor, 1k, 
+4, Resistor, 100, 
+2, Resistor, 10, 
+2, Capacitor Electrolytic, 47uF, 
+6, Capacitor Ceramic, 100nF, 
+2, SB140 Schottky Diode, SB140, 
+4, BC548 NPN Transistor, BC548, 
+2, Trimpot, 100k, 
+2, Linear Pot, 100k, 
+2, TL072 Dual Op-Amp, Tl072, 
