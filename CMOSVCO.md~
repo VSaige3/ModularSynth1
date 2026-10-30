@@ -1,0 +1,16 @@
+## Tech Specs
+### Impedances
+Output Impedances: ~500-700Ohm (Estimated from inverter)
+Imput Impedance: ~100kOhm
+These are well within Eurorack standards.
+
+### Inputs & Outputs
+- Any number of 1V/Oct CV (probably want like 2)
+- 1 PWM CV (seems exponential)
+- PW adjust pot
+- Center freq adjust pot
+- V/oct trim pot
+
+### Construction Notes
+- The inverter may become heated at high power
+- T1 and T2 should be thermally connected (glued together)
