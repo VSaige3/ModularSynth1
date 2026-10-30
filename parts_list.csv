@@ -1,6 +1,6 @@
 Component, Notes File, Parts File, Source, Link
-VCO, ./CMOSVCO.md, ./CMOSVCO.csv, René Schmitz CMOS VCO, https://www.schmitzbits.de/vco4069.html
+VCO, ./CMOSVCO.md, ./CMOSVCO.csv, RenÃ© Schmitz CMOS VCO, https://www.schmitzbits.de/vco4069.html
 VCF, ./MFOSVCF.md, ./MFOSVCF.csv, MFOS DIY board VCO, https://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=EXPERIMENTERBOARD/page3.html&CATPARTNO=NONE&PN=1&SONGID=NONE
 VCA, ./VCA.md, ./VCA.csv, Moritz Klein VCA Build, https://www.ericasynths.lv/edu-diy-vca-2125/
 Amplifier, ./Amp.md, ./Amp.csv, ESP Project 178, https://sound-au.com/project178.htm
-LFO, ./LFO.md, ./LFO.csv, MFOS DIY board LFO, https://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=ALIENSCREAMER/ALIENSCREAMER.php&VPW=1670&VPH=790
+LFO, ./LFO.md, ./LFO.csv, MFOS DIY board LFO, https://musicfromouterspace.com/analogsynth_new/EXPERIMENTERBOARD/pdf/schempg4_schem.pdf
