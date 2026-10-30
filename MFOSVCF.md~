@@ -1,8 +1,0 @@
-# Music From Outer Space DIY Kit VCF Adapted for STUDIO Synth
-
-## Tech Specs
-### Impedances
-- Signal Input: ~10M?? (that's huge...)
-- CV Input: 100k (very reasonable)
-- Signal Output: 125
-In theory should hook to eurorack, suspicious of the 10M input impedance.
