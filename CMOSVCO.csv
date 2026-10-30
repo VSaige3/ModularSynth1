@@ -1,21 +1,21 @@
 Qty., Description, Value, Designators
-1, Capacitor, 2.2nF
-3, Capacitor, 220nF
-2, 1N4148 Signal Diode, 1N4148
-1, 4069UB Hex Inverter, 4069UB
-3, BC548C NPN Trsnsistor (or similar), BC548C, T1,T2,T3
-1, BC558C BJT (or similar), BC558C
-1, Resistor, 680
-1, Resistor, 1k
-1, Resistor, 1.5k
-1, Resistor, 3.3k
-2, Resistor, 10k
-1, Resistor, 22k
-1, Resistor, 33k
-1, Resistor, 47k
-1, Resistor, 68k
-10, Resistor, 100k
-1, Resistor, 1M
+1, Capacitor, 2.2nF, 
+3, Capacitor, 220nF, 
+2, 1N4148 Signal Diode, 1N4148, 
+1, 4069UB Hex Inverter, 4069UB, 
+3, BC548C NPN Trsnsistor (or similar), BC548C, T1; T2; T3
+1, BC558C BJT (or similar), BC558C, 
+1, Resistor, 680, 
+1, Resistor, 1k, 
+1, Resistor, 1.5k, 
+1, Resistor, 3.3k, 
+2, Resistor, 10k, 
+1, Resistor, 22k, 
+1, Resistor, 33k, 
+1, Resistor, 47k, 
+1, Resistor, 68k, 
+10, Resistor, 100k, 
+1, Resistor, 1M, 
 1, Trimpot, 1k, v/oct trim
-2, Linear Pot, 22k, tune, PW
-3, NTC, 10k
+2, Linear Pot, 22k, tune; PW
+3, NTC, 10k, 
