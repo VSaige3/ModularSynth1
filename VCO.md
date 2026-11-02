@@ -18,3 +18,4 @@ These are well within Eurorack standards.
 ### Construction Notes
 - The inverter may become heated at high power
 - T1 and T2 should be thermally connected (glued together)
+- Might be able to use hex inverter from circuitboard
