@@ -2,10 +2,19 @@
 
 
 ## Stage 1
-- 12V dual power supply
-- VCO
-- Speaker driver
+- Build 12V dual power supply
+- Build VCO
+- Build Speaker driver
 
 ## Stage 2
 - Incorporate custom manual
-- Similar to the Harmonium, consists of resistive wire over conductive surface
+- Similar to the Trautorium, consists of resistive wire over conductive surface
+
+## Stage 3
+- Add VCA, incorporate volume adjustment (hopefully through pressure on string)
+
+## Stage 4
+- Add LFO, VCF
+
+## Stage 5?
+- Noise generator, more filters, envelope generator, etc

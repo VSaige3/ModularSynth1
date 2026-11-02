@@ -1,5 +1,17 @@
-Qty. needed,Description,Link,Module
-1, 4069UB Hex Inverter (probably worth ordering multiple), [CD4069UBE](https://www.mouser.com/en/ProductDetail/Texas-Instruments/CD4069UBE?qs=gqbMQSs93zN4MVMbMFTI6g%3D%3D),VCO
-1, BC558C BJT (or similar) (also probably worth ordering multiple), [BC558C](https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/BC558C?qs=OlC7AqGiEDk9jClOPlwCTw%3D%3D), VCO
-1, LM386 Low Voltage Audio Amplifier (maybe not worth buying a ton but they're useful), [LM386N-4-NOPB](https://www.mouser.com/en/ProductDetail/Texas-Instruments/LM386N-4-NOPB), Amplifier
-
+Qty. Needed, Qty. Recommended,Description, Value,Link,Module
+1, *, Capacitor, 2.2nF, , VCO
+3, *, Capacitor, 220nF, , VCO
+1, Resistor, 680, , VCO
+1, Resistor, 1.5k, , VCO
+1, Resistor, 3.3k, , VCO
+1, Resistor, 33k, , VCO
+1, Resistor, 47k, , VCO
+1, Resistor, 68k, , VCO
+10, Resistor, 100k, , VCO
+1, Resistor, 1M, , VCO
+1, ~10, 4069UB Hex Inverter, 4069UB, https://www.mouser.com/en/ProductDetail/Texas-Instruments/CD4069UBE?qs=gqbMQSs93zN4MVMbMFTI6g%3D%3D,VCO
+3, ~10, BC548C NPN Trsnsistor (or similar), 2N3906, https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/BC558C?qs=OlC7AqGiEDk9jClOPlwCTw%3D%3D, VCO
+1, ~10, LM386 Low Voltage Audio Amplifier, LM386, https://www.mouser.com/en/ProductDetail/Texas-Instruments/LM386N-4-NOPB?qs=QbsRYf82W3FsJPldcpZj5g%3D%3D, Amplifier
+1, 1, Trimpot, 1k, , VCO
+2, 2, Linear Pot, 22k, , VCO
+3, 3, NTC, 10k, , VCO
