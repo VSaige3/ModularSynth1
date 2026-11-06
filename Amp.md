@@ -1,3 +1,3 @@
 # Audio Amplifier & Speaker System
 
-Still not entirely sure what to use for this. The low power [LM386](https://www.ti.com/lit/ds/symlink/lm386.pdf) seems like a good pick, but so does the slighly higher power [LM3886](https://www.ti.com/product/LM3886), albeit for a miniscule increase in price. Discussed by Elliot Sound Productions is the TDA7297, but this seems more power than needed and is designed for stereo.
+Will be using the [LM386](https://www.ti.com/lit/ds/symlink/lm386.pdf) low power amplifier, with the first set of example set ups (with fixed gain between 20 and 200). Probably will end up using a trimpot or something to adjust the gain.

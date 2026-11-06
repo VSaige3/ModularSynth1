@@ -1,17 +1,14 @@
-Qty. Needed, Qty. Recommended,Description, Value,Link,Module
-1, *, Capacitor, 2.2nF, , VCO
-3, *, Capacitor, 220nF, , VCO
-1, *, Resistor, 680, , VCO
-1, *, Resistor, 1.5k, , VCO
-1, *, Resistor, 3.3k, , VCO
-1, *, Resistor, 33k, , VCO
-1, *, Resistor, 47k, , VCO
-1, *, Resistor, 68k, , VCO
-10, *, Resistor, 100k, , VCO
-1, *, Resistor, 1M, , VCO
-1, ~10, 4069UB Hex Inverter, 4069UB, https://www.mouser.com/en/ProductDetail/Texas-Instruments/CD4069UBE?qs=gqbMQSs93zN4MVMbMFTI6g%3D%3D,VCO
-3, ~10, BC548C NPN Trsnsistor (or similar), 2N3906, https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/BC558C?qs=OlC7AqGiEDk9jClOPlwCTw%3D%3D, VCO
-1, ~10, LM386 Low Voltage Audio Amplifier, LM386, https://www.mouser.com/en/ProductDetail/Texas-Instruments/LM386N-4-NOPB?qs=QbsRYf82W3FsJPldcpZj5g%3D%3D, Amplifier
-1, 1, Trimpot, 1k, , VCO
-2, 2, Linear Pot, 22k, , VCO
-3, 3, NTC, 10k, , VCO
+Qty. Needed, Qty. Suggested,Description, Value,Link,Module, Price
+1, 10, Hex Inverter, 4069UB, https://www.mouser.com/en/ProductDetail/Texas-Instruments/CD4069UBE?qs=gqbMQSs93zN4MVMbMFTI6g%3D%3D, VCO, $7.23
+1, 10, BJT, 2N3906, https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/2N3904?qs=OlC7AqGiEDlYMySw5i2rlg%3D%3D, VCO, $1.12+Tarrif
+1, 1, Capacitor (Electrolytic), 220uF, https://www.jameco.com/z/R220-35-James-Electronics-220-uF-35-Volt-Radial-Capacitor_93770.html, Amplifier, $0.49
+1, 10, Capacitor (Electrolytic), 10uF, https://www.jameco.com/z/ECA-1HM100-JVP-Jameco-ValuePro-10-uF-50-Volt-Radial-Capacitor_29891.html, Amplifier, $0.15
+5, 10, Capacitor (Bipolar), 1uF, https://www.mouser.com/en/ProductDetail/Nichicon/UVP2A010MDD1TD?qs=OSAjuGjmRDNZfu%2FuW0zcvA%3D%3D, All (Coupling inputs/outputs), $2.44
+1, 10, LM386 Low Voltage Audio Amplifier, LM386, https://www.mouser.com/en/ProductDetail/Texas-Instruments/LM386N-4-NOPB?qs=QbsRYf82W3FsJPldcpZj5g%3D%3D, Amplifier, $8.52
+3, 10, NPN Trsnsistor, 2N3904, https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/2N3904?qs=OlC7AqGiEDlYMySw5i2rlg%3D%3D, VCO, $1.12+Tarrif
+3, 3, NTC, 10k, https://www.mouser.com/en/ProductDetail/Vishay-BC-Components/NTCLE213E3103FLB0A?qs=HMhDvBYWqvNPzwSXiVGAig%3D%3D, VCO, $5.28+Tarrif
+1, 1, Trimpot, 1k, https://www.jameco.com/z/3299Z-1-102LF-JVP-Jameco-ValuePro-Trimmer-Potentiometer-1K-Ohms-500mW-25-Turn-Side-Adjust-THM_769848.html, VCO, $0.99
+1, 1, MeanWell LRS-100-24 AC-DC Enclosed Power Supply, LRS-100-24, https://www.jameco.com/z/LRS-100-24-MEAN-WELL-MEAN-WELL-LRS-100-24-100W-24V-Enclosed-Single-Output-AC-to-DC-Power-Supply_2257694.html, Power Supply, $15.20
+Kits, , , , , , 
+1, 1, Assortment of Ceramic Capacitors, 14 values 10pF-220nF, , ,https://www.jameco.com/z/K-CAP1-Velleman-224-Piece-Capacitor-Set-with-14-Different-Values-50V_2130642.html, $17.95+Tarrif
+1, 1, Assortment of Resistors (with case), 10ohm-10Mohm, https://www.jameco.com/z/00081832-Jameco-ValuePro-540-Piece-1-4-Watt-5-Carbon-Film-Resistor-Component-Kit_81832.html, $29.95

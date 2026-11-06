@@ -1,1 +1,8 @@
 Qty.,Description,Value,Designators
+1, LM386 Low Voltage Audio Power Amplifier, LM386,
+1, Linear Pot, 10k, 
+1, Resistor, 1k,
+1, Resistor, 10,
+1, Capacitor, 10uF, bypass
+1, Capacitor, 0.047uF,
+1, Capacitor, 220uF, 

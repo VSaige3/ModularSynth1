@@ -3,8 +3,8 @@ Qty., Description, Value, Designators
 3, Capacitor, 220nF, 
 2, 1N4148 Signal Diode, 1N4148, 
 1, 4069UB Hex Inverter, 4069UB, 
-3, BC548C NPN Trsnsistor (or similar), 2N3906, T1; T2; T3
-1, BC558C BJT (or similar), 2N3904, 
+3, BC548C NPN Trsnsistor (or similar), 2N3906, T2; T3
+1, BC558C BJT (or similar), 2N3904, T1
 1, Resistor, 680, 
 1, Resistor, 1k, 
 1, Resistor, 1.5k, 
